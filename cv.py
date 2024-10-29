@@ -1,8 +1,8 @@
 import cv2
 
 face_cascade = cv2.CascadeClassifier(r'C:\Users\crayc\OneDrive\Desktop\computerVision\haarcascade_frontalface_default.xml')
-face_count = 0
-cap = cv2.VideoCapture(0)
+video_stream = "http://192.168.1.49:5000/video_feed"
+cap = cv2.VideoCapture(video_stream)
 
 if not cap.isOpened():
     print("Error: Could not open webcam.")
