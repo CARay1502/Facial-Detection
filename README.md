@@ -4,9 +4,7 @@ This project is a live face detection web app that streams video from a **Raspbe
 
 
 ## Acknowledgements
-Idea based on *shouryaj98's beginner Java Project with great help from W3 Schools Java documentation for programming reference.
- - [Shourya98's: Hotel Management Project Java](https://github.com/shouryaj98/Hotel-Management-Project-Java)
- - [W3 Schools Java Resource](https://www.w3schools.com/java/)
+
 
 ## More About Me.../
 Make sure to check out more of my projects in the future and some of my other projects using *Java, Python, HTLM, CSS and JavaScript*
