@@ -9,4 +9,4 @@ This project is a live face detection web app that streams video from a **Raspbe
 ## More About Me.../
 Make sure to check out more of my projects in the future and some of my other projects using *Java, Python, HTLM, CSS and JavaScript*
 - [My Github Profile](https://github.com/CARay1502)
-- [Perso
+- [Personal Portfolio](https://christianray.me) 
