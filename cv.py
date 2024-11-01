@@ -1,7 +1,7 @@
 import cv2
 
 face_cascade = cv2.CascadeClassifier(r'C:\Users\crayc\OneDrive\Desktop\computerVision\haarcascade_frontalface_default.xml')
-video_stream = "http://192.168.1.49:5000/video_feed"
+video_stream = "(HOSTED OVER LOCAL IP ADDRESS"
 cap = cv2.VideoCapture(video_stream)
 
 if not cap.isOpened():
